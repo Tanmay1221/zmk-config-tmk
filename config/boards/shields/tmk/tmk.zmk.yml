@@ -1,0 +1,12 @@
+file_format: "1"
+id: tmk
+name: tmk
+type: shield
+url: https://github.com/Tanmay1221/tmk-firmware
+requires: [pro_micro]
+features:
+  - keys
+  - underglow
+siblings:
+  - tmk_left
+  - tmk_right
